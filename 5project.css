@@ -1,0 +1,827 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.next-prives{
+    background-color: orange;
+    height: 170px;
+    width: 100%;
+
+}
+body{
+    background-color: #951C49;
+     height: 800px;
+    width: 100%; 
+    
+}
+.crcal-img{
+     margin-left: 290px; 
+      background-color: bisque; 
+}
+.main-img12{
+     background-color: black; 
+     margin-left: 300px; 
+    margin-top: 30px;
+    /* height: 650px; */
+    /* width: 70%;  */
+}  
+.main-div2{
+    display: flex;
+     margin-right: 50px; 
+    margin-left: 40px;
+
+    
+}
+.main-div3{
+    /* height: 400px; */
+    /* width: 100%; */
+    background-color: black;
+    margin-top: 30px;
+
+
+}
+.main-div4{
+    height: 70px;
+    width: 100%;
+    background-color: grey;
+    opacity: 0.5;
+    
+}
+#color-box1{
+    height: 100px;
+    width: 400px;
+    background-color: black;
+    opacity: 0.6;
+    /* margin: -50px ; */
+    /* position: absolute; */
+    /* bottom: 20px; */
+}
+#color-box2{
+    background-color: black;
+    height: 100px;
+    width: 400px;
+    margin-left: 40px;
+    opacity: 0.6;
+    /* margin: -50px; */
+}
+#color-box3{
+    background-color: black;
+    height: 100px;
+    width: 400px;
+    margin-left: 44px;
+    margin-bottom: 20px;
+    opacity: 0.6;
+    /* margin: -50px; */
+}
+.main-div5{
+    display: flex;
+    margin-left: 300px;
+    bottom: 80px;
+    margin-bottom: 20; 
+    /* position: absolute; */
+    /* margin-bottom: 50px; */
+}
+.p-1{
+    /* background-color: #951C49; */
+    width: 50px;
+    height: 30px;
+    font-size: 35px;
+    margin-left: 160px;
+    margin-top: 40px;
+    color: white;
+}
+.p-2{
+    width: 50px;
+    height: 30px;
+    font-size: 35px;
+    margin-left: 157px;
+    margin-top: 40px;
+    color: white;
+    /* background-color: #951C49; */
+}
+.p-3{
+    /* background-color: #951C49; */
+    width: 50px;
+    height: 30px;
+    font-size: 35px;
+    margin-left: 160px;
+    color: white;
+    margin-top: 40px;
+}
+.pragrafh-1{
+    /* background-color:blue;  */
+    height: 100px;
+    width: 90px;
+    color: white;
+    margin-left: 330px;
+} 
+.second-pragraph{
+    /* background-color: blanchedalmond; */
+    /* height: 200px; */
+    /* width: 150; */
+    color: white; 
+    margin-left: 250px;
+} 
+.main-div6{
+    display: flex;
+    /* margin-top: 20px; */
+}
+.pragrafh-3{
+    color: white;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.green-1{
+    color: green;
+}
+.REST-NAME{
+    font-size: 30px;
+    color: green;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+
+}
+.main-div7{
+    display: flex;
+    margin-left: 45px;
+    /* margin-top: 20px; */
+}
+.khusboo{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.p1{
+    /* background-color: blue; */
+    color: white;
+    height: 100px;
+    width: 400px;;
+
+}
+.p2{
+    /* color: white;
+    height: 100px;
+    width: 400px;    */
+    margin-top: 10px;
+
+}
+.p3{
+    margin-top: 10px;
+}
+.p4{
+    margin-top: 7px;
+}
+.p{
+    margin-top: 70px;
+    font-size: 20px;
+}
+.p5{
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.fist-p{
+    background-color: black;
+    height: 100px;
+    width: 20%;
+    margin-top: 200px; 
+    margin-left: 400px; 
+     margin-bottom: -50px ;
+    bottom: 100px;
+}
+.crcal-img{
+    margin-top: 10px;
+    border-radius: 100px;
+    /* margin-left: 20px; */
+}
+.menu{
+    height: 100pxpx;
+    width: 100px;
+    border: 2px solid #951C49;
+    border-radius: 35px;
+    height: 37px;
+    width: 37px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.awards{
+    height: 20px;
+    width: 30px;
+    border: 2px solid #951C49;
+    
+    border-radius: 35px;
+    height: 37px;
+    width: 37px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.number{
+    color: #951C49;
+    font-size: 30px;
+    margin-left: 20px;
+    font-size: 35px;
+    margin-top: 20px;
+}
+.cercal1{
+   /* border: 2px solid red; */
+   border-radius: 25px;
+   height: 38px;
+   width: 38px;
+   /* font-size: 20px; */
+   background-color: #951C49;
+   margin-left: 20px;
+   margin-top: 20px;
+
+}
+.i{
+    font-size: 30px;
+    color: orange;
+    margin-left: 15px;
+    margin-top: 5px
+}    
+.menu-name{
+    background-color: antiquewhite;
+    height: 20px;
+    width: 30px;
+}
+.main-div-b{ 
+     display: flex; 
+     margin-left: 1200px; 
+     margin-bottom: 100px; 
+     margin-top: 20px; 
+
+}
+/* .main-div-b1{
+    color: white;
+} */ 
+
+
+.ph1{
+    color: #951C49;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.ph2{
+    color: #951C49;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.ph3{
+    color: green;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.ph4{
+    color: #951C49;
+    margin-left: 18px;
+    margin-top: 15px;
+}
+.hotal-img{
+    margin-left: 350px;
+    height: 40%px;
+    width: 64%;
+    margin-top: 35px;
+    /* color: aqua; */
+
+
+}
+.main-div-img1{
+    display: flex;
+}
+.border-1{
+    background-color: blue;
+    height: 50px;
+    width: 150px;
+}
+.border-2{
+    background-color: black;
+    height: 60px;
+    width: 150px;
+}
+.border-3{
+    background-color: aqua;
+    height: 50px;
+    width: 150px;
+}
+.main-div-img{
+    height: 300px;
+    width: 30%px;
+    
+}
+.img1{
+    height: 250px;
+    width: 350px;
+    
+}
+.bo1{
+    background-color: black;
+    height: 55px;
+    width: 350px;
+    margin-bottom: 100px;
+    top: 1100px;
+    position: absolute;
+    opacity: 0.8;
+}
+.img2{
+    
+    height: 250px;
+    width: 350px;
+    margin-left: 35px;
+    background-color: yellow;
+      
+}
+.main-div-img1{ 
+    height: 300px; 
+    width: 30%;
+    margin-left: 30px;
+    
+ }
+.bo2{
+    background-color: black;
+    height: 50px;
+    width: 350px;
+    margin-bottom: 100px;
+    top: 1100px;
+    position: absolute;
+    opacity: 0.8;
+    margin-left: 35px;
+}
+ #main-div-img23:hover{
+    
+    height: 300px;
+    width: 30%;
+    margin-bottom: 40px;
+    color: red;
+    transition: 0.5s;
+    cursor: pointer;
+
+
+} 
+.main{ 
+    display: flex;
+    margin-left: 350px;
+    margin-top: 30px;
+
+}
+.bo3{
+    background-color: black;
+    height: 50px;
+    width: 350px;
+    margin-bottom: 100px;
+    top: 1100px;
+    position: absolute;
+    opacity: 0.8;
+    
+
+}
+.img3{
+    height: 250px;
+    width: 350px;
+    
+} 
+.head1{
+    color: white;
+    font-size: 30px;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+.head2{
+    color: white;
+    font-size: 30px;
+    margin-left: 118px;
+    margin-top: 10px;
+}
+.head3{
+    color: white;
+    font-size: 30px;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+.star-img{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+
+    
+}
+.m{
+    display: flex;
+    /* margin-top: 20px; */
+    margin-left: 20px;
+}
+.l{
+    margin-left: 30px;
+    margin-top: 25px;
+
+}
+.o{
+    /* margin-left: 130px; */
+    color: white;
+    margin-top: 50px;
+    margin-right: 30px;
+
+}
+
+
+
+ @media (max-width: 750px) {
+    body{
+        margin: 0px;
+        padding: 0px;
+    }
+    .next-prives{
+        background-color: chocolate;
+        height: 21rem;
+        width: 28rem;
+        flex-direction: column;
+    }
+    .main-div7{
+        flex-direction: column;
+        margin-left: 153px;
+        margin-top: 12px;
+    }
+    .main{
+        flex-direction: column;
+    }
+    .main-div6{
+        flex-direction: column;
+        margin-left: 4px;
+    }
+    .hotal-img{
+        margin-left: 36px;
+        height: 40%px;
+        width: 85%;
+        margin-top: 21px;    
+    }
+    .img1{
+        height: 250px;
+        width: 350px;
+        margin-top: 2px;
+        margin-left: -309px;
+    }
+    .bo1{
+        margin-top: -293px;
+        margin-left: -309px;
+
+    }
+    .img2{
+        height: 250px;
+        width: 350px;
+        margin-left: -340px;
+        background-color: yellow;
+    }
+    .bo2{
+        margin-top: 10px;
+        margin-left: -339px;  
+    }
+    .img3{
+        margin-top: 1px;
+        margin-left: -308px;
+    }
+    .bo3{
+        margin-top: 312px;
+        margin-left: -308px;
+
+    }
+    .pragrafh-1{
+        margin-top: -56px;
+        margin-left: 96px;
+        flex-direction: column;
+    }
+    .second-pragraph{
+        margin-top: 92px;
+        margin-left: 105px;
+        flex-direction: column;
+    }
+    .pragrafh-3{
+        margin-left: 30px;
+        margin-top: -34px;
+        flex-direction: column;
+    }
+    .crcal-img{
+        margin-top: -17px;
+        margin-left: 11px;
+        height: 11px;
+        width: 11px;
+    }
+    .REST-NAME{
+        margin-left: -145px;
+    }
+    .m{
+        margin-left: -139px;
+    }
+    .menu{
+        height: 23px;
+        width: 22px;
+    }
+    .cercal1{
+        height: 27px;
+        width: 32px;
+    }
+   .i{
+    font-size: 21px;
+    color: orange;
+    margin-left: 15px;
+    margin-top: -12px;
+   }
+   .awards{
+    height: 22px;
+    width: 27px;
+    margin-top: 14px;
+   }
+   .number{
+       font-size: 18px;
+   }
+   /* .ph1{
+    margin-top: -26;
+    margin-left: 56px;
+    } */
+    .ph1 {
+        color: #951C49;
+        margin-left: 55px;
+        margin-top: -23px;
+    }
+   .ph2{
+       margin-top: -20px;
+       margin-left: 57px;
+   }
+   .ph3{
+       margin-left: 57px;
+       margin-top: 2px;
+   }
+   .ph4{
+       margin-top: -22px;
+       margin-left: 57px;
+   }
+   .p{
+     margin-top: 81px;
+     margin-left: 80px;
+    } 
+    .p5{
+        margin-top: 75px;
+        margin-left: 62px;
+    
+    } 
+    .p3{
+        margin-left: 39px;
+    }
+    .p4{
+        margin-left: 58px;
+
+    }
+    .p6{
+        margin-left: 20px;
+    }
+    .p7{
+        margin-left: -91px;
+        /* margin-top: 4px; */
+        font-size: 15px;
+    }
+    .p8{
+        margin-left: -27px;
+        margin-top: -12px;
+        font-size: 15px;
+    }
+    .p9{
+        margin-left: -100px;
+        margin-top: -16px;
+        font-size: 13px;
+    }
+    .p10{
+        margin-left: -4px;
+        margin-top: -11px;
+        font-size: 12px;
+    }
+    .khusboo1{
+        font-size: 15px;
+        margin-top: 61px;
+        margin-left: 113px;
+        color: white;
+    }
+    .khusboo{
+        margin-left: -330px;
+        margin-top: 50px;
+    }
+    .p11{
+        /* margin-top: 11px; */
+        /* margin-left: ; */
+        font-size: 14px;
+    }
+    .p12{
+        margin-top: -15px;
+        font-size: 15px;
+    }
+    .p13{
+        margin-top: 13px;
+        font-size: 15px;
+    }
+    .p14{
+        margin-top: -9px;
+        font-size: 15px;
+    }
+
+
+}
+    /* *{
+        margin: 0px;
+        padding: 0px;
+    } */
+    /* .next-prives{
+        background-color: chocolate;
+        height: 20rem;
+        width: 28rem;
+    
+    }
+
+    .crcal-img{
+        display: none;
+        margin-bottom: 4rem;
+    }
+
+    .hotal-img{
+        margin-left: 8px;
+        height: 40%px;
+        width: 96%;
+        margin-top: 19px;
+        color: aqua;
+    }
+    .img1{
+        height: 218px;
+        width: 419px;
+        margin-left: -340px;
+        margin-top: -11px;
+    
+    }
+    .img3{
+        margin-left: -377px;
+        margin-top: 522px;
+        height: 242px;
+        width: 331px;
+    }
+    .img2{
+         margin-left: -449px;
+        margin-top: 232px;
+        height: 228px;
+        width: 420px; 
+
+    }
+    .bo1{
+        background-color: black;
+        height: 54px;
+        width: 419px;
+        margin-bottom: 90px;
+        top: 765px;
+        position: absolute;
+        opacity: 0.8;
+        margin-left: -340px;
+            
+    } 
+    .bo3{
+        background-color: black;
+        height: 54px;
+        width: 330px;
+        margin-bottom: 100px;
+        top: 1100px;
+        position: absolute;
+        opacity: 0.8;
+        margin-left: -376px;
+        margin-top: 161px;
+    }
+    .bo2{
+         ackground-color: black; 
+        height: 47px;
+        width: 420px;
+        margin-left: -449px;
+        margin-top: -75px;
+    }
+    .main-div6{
+        height: 120%;
+        width: 11px;
+        margin-top: 12px;
+        flex-direction: column;
+    }
+
+
+    .pragrafh-1{
+        margin-top: -52px;
+        margin-left: 156px;
+        font-size: 12px;
+    }
+    .second-pragraph{
+        margin-top: 90px;
+        margin-left: -176px;
+        font-size: 12px;
+    }
+    .pragrafh-3{
+        margin-left: 11px;
+        margin-top: 100px;
+        font-size: 12px;
+    }
+    .khusboo {
+        margin-left: 187px;
+        margin-top: 50px;
+    }
+    .crcal-img {
+        margin-top: 10px;
+        border-radius: 100px;
+        margin-left: -179px;
+    }
+    .o {
+        color: wheat;
+        margin-left: 4rem;
+        display: none;
+        margin-top: 50px;
+        margin-right: 30px;
+        flex-direction: column;
+    }
+    .REST-NAME{
+        font-size: 25px;
+    }
+    .number{
+        color: #951C49;
+        font-size: 30px;
+        margin-left: -150px;
+        font-size: 18px;
+        margin-top: 229px;
+    }
+    .ph2{
+            color: #951C49;
+            margin-left: -94px;
+            margin-top: -33px;
+        }
+    .awards{
+        border: 2px solid #951C49;
+        border-radius: 35px;
+        height: 29px;
+        width: 29px;
+        margin-left: -137px;
+        margin-top: 136px;
+    }
+    .menu{
+        height: 18px;
+        width: 22px;
+        margin-left: -53px;
+        margin-top: 92px;
+
+    }
+    .cercal1{
+        border-radius: 25px;
+        height: 26px;
+        width: 29px;
+        font-size: 20px;
+        background-color: #951C49;
+        margin-left: -111px;
+        margin-top: 132px;
+    } 
+     .ph4{
+        color: #951C49;
+        margin-left: -126px;
+        margin-top: -3px;
+    } 
+    .main-div-b1{
+        font-size: 11px;
+        margin-top: 11px;
+        margin-left: -237px;
+    }
+    .ph4{
+        color: #951C49;
+        margin-left: -30px;
+        margin-top: -23px;
+        font-size: 14px;
+    } 
+     .ph1{
+        color: #951C49;
+        margin-left: -14px;
+        margin-top: -23px;
+    }
+    .i{
+        font-size: 30px;
+        color:orange;
+        margin-left: -97px;
+        margin-top: 177px;
+        /* border: 2px solid #951C49; */
+        /* border-radius: 61px;
+        height: 27px;
+        width: 26px;
+        background-color: #951C49;
+
+    } 
+    .cercal1{
+        border-radius: 25px;
+        height: 38px;
+        width: 38px;
+        font-size: 20px;
+        background-color: orange;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .ph3{
+        color: green;
+        margin-left: -40px;
+        margin-top: 9px;
+    }
+
+        
+}         
